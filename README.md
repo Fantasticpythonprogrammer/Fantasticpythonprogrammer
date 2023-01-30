@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepa D S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://demotix.com/wp-content/uploads/2019/06/How-to-Hire-Web-Developer.gif">
 - 🔭 I’m currently working on **python**
 
 - 🌱 I’m currently learning **python**
